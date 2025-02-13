@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an aspiring data analyst, transitioning from marketing to data analytics. I will use this space as a portfolio.
+
 <!--
 **RobinRehn/RobinRehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
