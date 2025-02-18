@@ -19,6 +19,11 @@ After several years in leading marketing roles, I've decided to change course an
 
 * M.Sc. Economics and business Administration - Hanken School of Economics (2018)
 
+### Tech
+
+* Languages: Python, SQL, DAX
+* Tools/platforms: Snowflake, BigQuery, Tableau, PowerBI, Spreadsheets, Google Analytics
+
 ### Courses & Cerfifications
 
 * [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/S1R6IPFY0VSM)
